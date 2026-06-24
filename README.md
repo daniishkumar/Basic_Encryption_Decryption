@@ -21,12 +21,18 @@ This project is a Cyber Security application developed using Python and Tkinter.
 ## Project Files
 
 ```
+Project Files
 Basic-Encryption-Decryption/
 │
 ├── BasicEncryptionDecryption.py
 ├── README.md
 ├── requirements.txt
-└── screenshots/
+├── screenshots/
+│   ├── Home.png
+│   ├── Enc_Dec.png
+│   └── OnlyDecryption.png
+└── demo/
+    └── Project_demo.mp4
 ```
 
 ## How to Run
@@ -39,6 +45,13 @@ Basic-Encryption-Decryption/
 python BasicEncryptionDecryption.py
 ```
 
+## Demo Video
+
+The project demonstration video is available in the repository:
+
+demo/Project_demo.mp4
+
+Download or open the video file to see the encryption and decryption process in action.
 
 ## Learning Outcomes
 
